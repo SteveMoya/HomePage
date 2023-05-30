@@ -26,6 +26,7 @@ Eh aprendido ah realizar un home page con una integracion de Google Maps, junto 
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto.
+
 ![127 0 0 1_5500_home_proyectos_Home-Web_ (1)](https://github.com/SteveMoya/HomePage/assets/114698709/745b61fd-6402-422d-86ee-c74c1a0ccc86)
 ![127 0 0 1_5500_home_proyectos_Home-Web_ (2)](https://github.com/SteveMoya/HomePage/assets/114698709/ba3e5e3f-7cdb-4da3-89a1-4f284cc706b7)
 ![127 0 0 1_5500_home_proyectos_Home-Web_ (3)](https://github.com/SteveMoya/HomePage/assets/114698709/7e53dee9-87b1-47c2-903e-df7e89c17b79)
